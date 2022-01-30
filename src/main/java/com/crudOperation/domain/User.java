@@ -1,7 +1,6 @@
 package com.crudOperation.domain;
 
 import javax.persistence.*;
-import javax.validation.constraints.Pattern;
 import java.util.Date;
 
 @Entity
